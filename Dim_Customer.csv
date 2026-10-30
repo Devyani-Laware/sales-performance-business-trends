@@ -1,0 +1,321 @@
+﻿Customer_ID,Customer_Name,Customer_Segment,Industry
+CUST-0001,Dunford Works,Small Business,Manufacturing
+CUST-0002,Yarridge Dining Group,Mid-Market,Hospitality
+CUST-0003,Roshaven Associates,Mid-Market,Professional Services
+CUST-0004,Jorlan Labs,Small Business,Technology
+CUST-0005,BelVin Dining Group,Small Business,Hospitality
+CUST-0006,WexTek Construction,Enterprise,Construction
+CUST-0007,Ulmdale Labs,Small Business,Technology
+CUST-0008,Keldale Regional Transport Board,Government,Public Sector
+CUST-0009,Elton Medical Group,Mid-Market,Healthcare
+CUST-0010,ValWick Works,Small Business,Manufacturing
+CUST-0011,Caltek Energy,Enterprise,Energy
+CUST-0012,DunVin Consulting,Small Business,Professional Services
+CUST-0013,Rosford Medical Group,Mid-Market,Healthcare
+CUST-0014,Marmere Construction,Small Business,Construction
+CUST-0015,Dorton Energy,Small Business,Energy
+CUST-0016,Fencrest Retail,Small Business,Retail
+CUST-0017,Wexdora Logistics,Enterprise,Logistics
+CUST-0018,Elvista Metropolitan Housing Office,Government,Public Sector
+CUST-0019,CalMont Learning Group,Mid-Market,Education
+CUST-0020,Fenlan Advisors,Enterprise,Financial Services
+CUST-0021,Belvista Learning Group,Small Business,Education
+CUST-0022,Galmont Medical Group,Mid-Market,Healthcare
+CUST-0023,Yarwick Freight,Small Business,Logistics
+CUST-0024,Yarmont Partners,Small Business,Professional Services
+CUST-0025,Wexford Academy,Mid-Market,Education
+CUST-0026,CalHaven Regional Transport Board,Government,Public Sector
+CUST-0027,Lunfield Associates,Mid-Market,Professional Services
+CUST-0028,Eridora Consulting,Small Business,Professional Services
+CUST-0029,Ulmnova Power Co.,Mid-Market,Energy
+CUST-0030,Pelmere Metropolitan Housing Office,Government,Public Sector
+CUST-0031,DunTon Construction,Mid-Market,Construction
+CUST-0032,LunStone Resources,Enterprise,Energy
+CUST-0033,Cordale Systems,Small Business,Technology
+CUST-0034,Dordale State Education Council,Government,Public Sector
+CUST-0035,Orimere District Health Agency,Government,Public Sector
+CUST-0036,Valton Systems,Small Business,Technology
+CUST-0037,NorDale Municipal Services Authority,Government,Public Sector
+CUST-0038,Orivin Regional Transport Board,Government,Public Sector
+CUST-0039,Falnova Consulting,Small Business,Professional Services
+CUST-0040,Tarbury Institute,Mid-Market,Education
+CUST-0041,Solmont Energy,Small Business,Energy
+CUST-0042,Bracrest Partners,Small Business,Professional Services
+CUST-0043,LunNova Fabrication,Mid-Market,Manufacturing
+CUST-0044,KelTek Hotels & Resorts,Enterprise,Hospitality
+CUST-0045,Kelwick Power Co.,Small Business,Energy
+CUST-0046,GalDora Digital,Mid-Market,Technology
+CUST-0047,Pelhaven District Health Agency,Government,Public Sector
+CUST-0048,FalTek Works,Mid-Market,Manufacturing
+CUST-0049,Pelfield Supply Chain,Mid-Market,Logistics
+CUST-0050,BraStone Care Partners,Small Business,Healthcare
+CUST-0051,Dorford Institute,Mid-Market,Education
+CUST-0052,IxaVista Hotels & Resorts,Mid-Market,Hospitality
+CUST-0053,Fenvista Advisors,Small Business,Financial Services
+CUST-0054,Kelton Advisors,Small Business,Financial Services
+CUST-0055,Elford Works,Mid-Market,Manufacturing
+CUST-0056,NorMere Energy,Mid-Market,Energy
+CUST-0057,Eribury Institute,Small Business,Education
+CUST-0058,Nordora State Education Council,Government,Public Sector
+CUST-0059,Yarcrest Industries,Small Business,Manufacturing
+CUST-0060,Quintek Construction,Mid-Market,Construction
+CUST-0061,Oritek Health,Enterprise,Healthcare
+CUST-0062,Marmont Construction,Mid-Market,Construction
+CUST-0063,Yarvista Industries,Mid-Market,Manufacturing
+CUST-0064,Belgard Partners,Small Business,Professional Services
+CUST-0065,TarBeck Hospitality,Mid-Market,Hospitality
+CUST-0066,Wexmere Partners,Small Business,Professional Services
+CUST-0067,UlmGard Resources,Small Business,Energy
+CUST-0068,Fenton Consulting,Small Business,Professional Services
+CUST-0069,Yarbury Builders,Mid-Market,Construction
+CUST-0070,JorTek Partners,Small Business,Professional Services
+CUST-0071,Calbeck Power Co.,Small Business,Energy
+CUST-0072,Brahaven Resources,Small Business,Energy
+CUST-0073,Jorstone Resources,Mid-Market,Energy
+CUST-0074,Marfield Dining Group,Mid-Market,Hospitality
+CUST-0075,GalFord Public Works Directorate,Government,Public Sector
+CUST-0076,Dorstone Care Partners,Mid-Market,Healthcare
+CUST-0077,Fentek Consulting,Mid-Market,Professional Services
+CUST-0078,Erilan Stores,Small Business,Retail
+CUST-0079,FenBeck Retail,Small Business,Retail
+CUST-0080,Brabury Regional Transport Board,Government,Public Sector
+CUST-0081,BelFord Learning Group,Mid-Market,Education
+CUST-0082,Fenridge State Education Council,Government,Public Sector
+CUST-0083,ArdBeck Consulting,Enterprise,Professional Services
+CUST-0084,DunBury Resources,Small Business,Energy
+CUST-0085,Ardlan Systems,Small Business,Technology
+CUST-0086,Quingard Capital,Enterprise,Financial Services
+CUST-0087,Yarvin Fabrication,Mid-Market,Manufacturing
+CUST-0088,MarStone Stores,Mid-Market,Retail
+CUST-0089,ZanCrest District Health Agency,Government,Public Sector
+CUST-0090,Pelnova Advisors,Small Business,Financial Services
+CUST-0091,Ulmbury Municipal Services Authority,Government,Public Sector
+CUST-0092,Wexstone Energy,Small Business,Energy
+CUST-0093,Ulmmont Power Co.,Small Business,Energy
+CUST-0094,Tarford Academy,Small Business,Education
+CUST-0095,Rostek Works,Enterprise,Manufacturing
+CUST-0096,FalGard Capital,Enterprise,Financial Services
+CUST-0097,Jorton Labs,Small Business,Technology
+CUST-0098,Jorford Hotels & Resorts,Small Business,Hospitality
+CUST-0099,Lunbeck Financial,Mid-Market,Financial Services
+CUST-0100,Yardale Medical Group,Small Business,Healthcare
+CUST-0101,Cormont Works,Small Business,Manufacturing
+CUST-0102,Solfield Dining Group,Small Business,Hospitality
+CUST-0103,Kelgard Trading Co.,Small Business,Retail
+CUST-0104,Norbury Hospitality,Mid-Market,Hospitality
+CUST-0105,ArdDora Fabrication,Mid-Market,Manufacturing
+CUST-0106,CorBury Advisors,Small Business,Financial Services
+CUST-0107,Ardtek Supply Chain,Small Business,Logistics
+CUST-0108,DunWick Partners,Small Business,Professional Services
+CUST-0109,Galmere Advisors,Small Business,Financial Services
+CUST-0110,Yarmere Learning Group,Mid-Market,Education
+CUST-0111,Jorwick Works,Mid-Market,Manufacturing
+CUST-0112,Yarlan Labs,Small Business,Technology
+CUST-0113,Rosdale Health,Small Business,Healthcare
+CUST-0114,Solcrest Consulting,Enterprise,Professional Services
+CUST-0115,Kelcrest Hospitality,Enterprise,Hospitality
+CUST-0116,RosGard Care Partners,Small Business,Healthcare
+CUST-0117,Wexton Industries,Mid-Market,Manufacturing
+CUST-0118,Lungard Resources,Small Business,Energy
+CUST-0119,Belton Stores,Mid-Market,Retail
+CUST-0120,Belfield Construction,Mid-Market,Construction
+CUST-0121,Oricrest Municipal Services Authority,Government,Public Sector
+CUST-0122,Eribeck Consulting,Mid-Market,Professional Services
+CUST-0123,Eriford Resources,Mid-Market,Energy
+CUST-0124,Falhaven Health,Mid-Market,Healthcare
+CUST-0125,Elstone Systems,Enterprise,Technology
+CUST-0126,Vallan Academy,Enterprise,Education
+CUST-0127,Ulmvista Academy,Enterprise,Education
+CUST-0128,Orimont Builders,Mid-Market,Construction
+CUST-0129,LunVin Medical Group,Enterprise,Healthcare
+CUST-0130,Calbury Power Co.,Small Business,Energy
+CUST-0131,ValHaven Capital,Small Business,Financial Services
+CUST-0132,Tarmere Power Co.,Mid-Market,Energy
+CUST-0133,EriTek Works,Mid-Market,Manufacturing
+CUST-0134,Bragard Fabrication,Small Business,Manufacturing
+CUST-0135,Corbeck Retail,Small Business,Retail
+CUST-0136,SolHaven Builders,Small Business,Construction
+CUST-0137,WexRidge Resources,Enterprise,Energy
+CUST-0138,Soltek Advisors,Mid-Market,Financial Services
+CUST-0139,Quinmont Builders,Mid-Market,Construction
+CUST-0140,Braford Resources,Mid-Market,Energy
+CUST-0141,ValDale Hospitality,Small Business,Hospitality
+CUST-0142,Heldora Freight,Mid-Market,Logistics
+CUST-0143,Yarnova Labs,Enterprise,Technology
+CUST-0144,Valridge Fabrication,Mid-Market,Manufacturing
+CUST-0145,Erigard Academy,Small Business,Education
+CUST-0146,Ixadale Retail,Enterprise,Retail
+CUST-0147,Galstone Logistics,Small Business,Logistics
+CUST-0148,Jormere Capital,Enterprise,Financial Services
+CUST-0149,KelField District Health Agency,Government,Public Sector
+CUST-0150,HelVin Partners,Enterprise,Professional Services
+CUST-0151,Dorgard Capital,Small Business,Financial Services
+CUST-0152,Dorvin Regional Transport Board,Government,Public Sector
+CUST-0153,BraMere Public Works Directorate,Government,Public Sector
+CUST-0154,Calton Partners,Small Business,Professional Services
+CUST-0155,Rosfield Associates,Small Business,Professional Services
+CUST-0156,Caldora Hospitality,Small Business,Hospitality
+CUST-0157,Kelhaven Trading Co.,Small Business,Retail
+CUST-0158,TarLan Systems,Mid-Market,Technology
+CUST-0159,YarDora Retail,Small Business,Retail
+CUST-0160,CalRidge Care Partners,Small Business,Healthcare
+CUST-0161,Calnova Industries,Small Business,Manufacturing
+CUST-0162,Belmere Fabrication,Small Business,Manufacturing
+CUST-0163,Galgard Stores,Mid-Market,Retail
+CUST-0164,Galton Care Partners,Small Business,Healthcare
+CUST-0165,Pelwick Advisors,Mid-Market,Financial Services
+CUST-0166,QuinVin Works,Mid-Market,Manufacturing
+CUST-0167,Duncrest Learning Group,Small Business,Education
+CUST-0168,Tarvista Academy,Mid-Market,Education
+CUST-0169,Ixahaven Digital,Mid-Market,Technology
+CUST-0170,Lunmont Capital,Mid-Market,Financial Services
+CUST-0171,Fenbury Labs,Mid-Market,Technology
+CUST-0172,Bralan Dining Group,Mid-Market,Hospitality
+CUST-0173,LunLan Financial,Mid-Market,Financial Services
+CUST-0174,NorLan Consulting,Small Business,Professional Services
+CUST-0175,DorMere Stores,Mid-Market,Retail
+CUST-0176,Ulmton Regional Transport Board,Government,Public Sector
+CUST-0177,QuinNova Public Works Directorate,Government,Public Sector
+CUST-0178,Lunvista Builders,Small Business,Construction
+CUST-0179,Calmere Builders,Mid-Market,Construction
+CUST-0180,Erihaven Consulting,Small Business,Professional Services
+CUST-0181,Valfield Digital,Small Business,Technology
+CUST-0182,Dormont Financial,Small Business,Financial Services
+CUST-0183,Duntek Works,Small Business,Manufacturing
+CUST-0184,Kelstone Hospitality,Small Business,Hospitality
+CUST-0185,Ardnova Power Co.,Small Business,Energy
+CUST-0186,ZanTon Academy,Mid-Market,Education
+CUST-0187,Bramont Medical Group,Small Business,Healthcare
+CUST-0188,Valgard Labs,Mid-Market,Technology
+CUST-0189,Ardcrest Care Partners,Small Business,Healthcare
+CUST-0190,Zanbury Consulting,Small Business,Professional Services
+CUST-0191,Falmont Supply Chain,Mid-Market,Logistics
+CUST-0192,Marbury Associates,Small Business,Professional Services
+CUST-0193,Quindale Resources,Enterprise,Energy
+CUST-0194,Bellan Financial,Small Business,Financial Services
+CUST-0195,Yarhaven Stores,Enterprise,Retail
+CUST-0196,Quinridge State Education Council,Government,Public Sector
+CUST-0197,Faldora Institute,Mid-Market,Education
+CUST-0198,Belnova Metropolitan Housing Office,Government,Public Sector
+CUST-0199,TarVin Energy,Small Business,Energy
+CUST-0200,Eriwick Power Co.,Small Business,Energy
+CUST-0201,OriHaven Resources,Small Business,Energy
+CUST-0202,Fenstone Digital,Small Business,Technology
+CUST-0203,Ixaford District Health Agency,Government,Public Sector
+CUST-0204,DunMont Partners,Mid-Market,Professional Services
+CUST-0205,Eriton Hospitality,Small Business,Hospitality
+CUST-0206,Elmere Hotels & Resorts,Enterprise,Hospitality
+CUST-0207,Quinstone Power Co.,Small Business,Energy
+CUST-0208,Ulmford Energy,Mid-Market,Energy
+CUST-0209,Dungard Systems,Small Business,Technology
+CUST-0210,CorHaven Advisors,Small Business,Financial Services
+CUST-0211,Helridge Retail,Small Business,Retail
+CUST-0212,Wexbury Financial,Small Business,Financial Services
+CUST-0213,Calvin Stores,Small Business,Retail
+CUST-0214,Elnova Fabrication,Small Business,Manufacturing
+CUST-0215,Fenvin Stores,Small Business,Retail
+CUST-0216,SolWick Labs,Small Business,Technology
+CUST-0217,Falton Municipal Services Authority,Government,Public Sector
+CUST-0218,Marford Hospitality,Enterprise,Hospitality
+CUST-0219,Ulmvin Construction,Enterprise,Construction
+CUST-0220,Rosbury Stores,Enterprise,Retail
+CUST-0221,Marvin Industries,Small Business,Manufacturing
+CUST-0222,JorDora Energy,Mid-Market,Energy
+CUST-0223,WexField Power Co.,Small Business,Energy
+CUST-0224,Dorbeck Digital,Small Business,Technology
+CUST-0225,Wexnova Capital,Mid-Market,Financial Services
+CUST-0226,QuinVista State Education Council,Government,Public Sector
+CUST-0227,Eldale Retail,Small Business,Retail
+CUST-0228,DunHaven Academy,Mid-Market,Education
+CUST-0229,Oridale Construction,Mid-Market,Construction
+CUST-0230,Oristone Builders,Mid-Market,Construction
+CUST-0231,Jornova Fabrication,Mid-Market,Manufacturing
+CUST-0232,Wexgard Logistics,Mid-Market,Logistics
+CUST-0233,Ulmbeck District Health Agency,Government,Public Sector
+CUST-0234,LunTek Institute,Small Business,Education
+CUST-0235,FenMont Freight,Mid-Market,Logistics
+CUST-0236,Belcrest Stores,Small Business,Retail
+CUST-0237,NorGard Financial,Small Business,Financial Services
+CUST-0238,Nortek State Education Council,Government,Public Sector
+CUST-0239,Galwick Partners,Small Business,Professional Services
+CUST-0240,ZanDale Digital,Small Business,Technology
+CUST-0241,SolStone Capital,Mid-Market,Financial Services
+CUST-0242,Quinfield Regional Transport Board,Government,Public Sector
+CUST-0243,Ixalan Developments,Small Business,Construction
+CUST-0244,Tardora State Education Council,Government,Public Sector
+CUST-0245,ArdRidge Works,Enterprise,Manufacturing
+CUST-0246,Wexcrest Capital,Small Business,Financial Services
+CUST-0247,Kelbury Academy,Small Business,Education
+CUST-0248,Zanwick Institute,Mid-Market,Education
+CUST-0249,Tarridge Hospitality,Small Business,Hospitality
+CUST-0250,Caldale Capital,Small Business,Financial Services
+CUST-0251,Quinlan Care Partners,Enterprise,Healthcare
+CUST-0252,MarCrest Labs,Small Business,Technology
+CUST-0253,MarVista Builders,Small Business,Construction
+CUST-0254,Wexhaven Medical Group,Mid-Market,Healthcare
+CUST-0255,Beltek Retail,Small Business,Retail
+CUST-0256,WexMont Resources,Small Business,Energy
+CUST-0257,NorStone Industries,Mid-Market,Manufacturing
+CUST-0258,Elridge Metropolitan Housing Office,Government,Public Sector
+CUST-0259,Galtek Dining Group,Small Business,Hospitality
+CUST-0260,Galbury Hotels & Resorts,Enterprise,Hospitality
+CUST-0261,Lunmere Public Works Directorate,Government,Public Sector
+CUST-0262,Dunlan Hospitality,Small Business,Hospitality
+CUST-0263,Tarcrest Systems,Mid-Market,Technology
+CUST-0264,Oriton Industries,Small Business,Manufacturing
+CUST-0265,Quinhaven Medical Group,Enterprise,Healthcare
+CUST-0266,Pelstone Regional Transport Board,Government,Public Sector
+CUST-0267,WexLan Academy,Small Business,Education
+CUST-0268,Galhaven Systems,Small Business,Technology
+CUST-0269,Zanford Dining Group,Enterprise,Hospitality
+CUST-0270,Elgard Metropolitan Housing Office,Government,Public Sector
+CUST-0271,HelTek Capital,Enterprise,Financial Services
+CUST-0272,Yargard Institute,Mid-Market,Education
+CUST-0273,YarTek Digital,Mid-Market,Technology
+CUST-0274,EriVista Institute,Small Business,Education
+CUST-0275,Lunford Health,Mid-Market,Healthcare
+CUST-0276,Valvista Metropolitan Housing Office,Government,Public Sector
+CUST-0277,Tarhaven Works,Small Business,Manufacturing
+CUST-0278,ValVin Trading Co.,Enterprise,Retail
+CUST-0279,CorField Freight,Enterprise,Logistics
+CUST-0280,FenNova Financial,Enterprise,Financial Services
+CUST-0281,Lundale Institute,Small Business,Education
+CUST-0282,Quincrest Institute,Small Business,Education
+CUST-0283,Fenford Builders,Mid-Market,Construction
+CUST-0284,Dorlan Dining Group,Small Business,Hospitality
+CUST-0285,Helbeck Institute,Enterprise,Education
+CUST-0286,BraBeck Developments,Small Business,Construction
+CUST-0287,NorRidge District Health Agency,Government,Public Sector
+CUST-0288,DorTek Partners,Small Business,Professional Services
+CUST-0289,Tarton Digital,Small Business,Technology
+CUST-0290,ElHaven Hotels & Resorts,Small Business,Hospitality
+CUST-0291,Galfield Academy,Enterprise,Education
+CUST-0292,FalLan Retail,Mid-Market,Retail
+CUST-0293,Ardhaven Trading Co.,Mid-Market,Retail
+CUST-0294,Zanlan Care Partners,Small Business,Healthcare
+CUST-0295,Zantek Industries,Small Business,Manufacturing
+CUST-0296,Oriford Learning Group,Small Business,Education
+CUST-0297,Marnova Resources,Small Business,Energy
+CUST-0298,Ulmstone Developments,Mid-Market,Construction
+CUST-0299,Helbury Works,Small Business,Manufacturing
+CUST-0300,DunDale Digital,Mid-Market,Technology
+CUST-0301,Kelmont Hospitality,Mid-Market,Hospitality
+CUST-0302,Peldora Power Co.,Small Business,Energy
+CUST-0303,Rosvista Public Works Directorate,Government,Public Sector
+CUST-0304,Heldale Industries,Small Business,Manufacturing
+CUST-0305,Norvin Freight,Enterprise,Logistics
+CUST-0306,Mardale Financial,Small Business,Financial Services
+CUST-0307,BraTon Energy,Enterprise,Energy
+CUST-0308,Belridge Regional Transport Board,Government,Public Sector
+CUST-0309,Galbeck Works,Small Business,Manufacturing
+CUST-0310,MarDora Health,Mid-Market,Healthcare
+CUST-0311,Dorhaven Associates,Enterprise,Professional Services
+CUST-0312,Norton Works,Mid-Market,Manufacturing
+CUST-0313,Orifield Municipal Services Authority,Government,Public Sector
+CUST-0314,NorHaven Supply Chain,Small Business,Logistics
+CUST-0315,Zanridge Partners,Small Business,Professional Services
+CUST-0316,Cordora Power Co.,Small Business,Energy
+CUST-0317,OriWick Power Co.,Small Business,Energy
+CUST-0318,Dunmere Hospitality,Mid-Market,Hospitality
+CUST-0319,Tarwick Municipal Services Authority,Government,Public Sector
+CUST-0320,Eristone Industries,Mid-Market,Manufacturing

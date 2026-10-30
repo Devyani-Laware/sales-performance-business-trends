@@ -1,0 +1,73 @@
+﻿Product_ID,Product_Name,Product_Category,Product_Family
+PRD-1001,Zephyra Lite Laptop,Computing Hardware,Laptops
+PRD-1002,Zephyra Standard Laptop,Computing Hardware,Laptops
+PRD-1003,Zephyra Pro Laptop,Computing Hardware,Laptops
+PRD-1004,Zephyra Max Laptop,Computing Hardware,Laptops
+PRD-1005,Corvane Lite Desktop,Computing Hardware,Desktops
+PRD-1006,Corvane Standard Desktop,Computing Hardware,Desktops
+PRD-1007,Corvane Pro Desktop,Computing Hardware,Desktops
+PRD-1008,Corvane Max Desktop,Computing Hardware,Desktops
+PRD-1009,Lumio Lite Tablet,Computing Hardware,Tablets
+PRD-1010,Lumio Standard Tablet,Computing Hardware,Tablets
+PRD-1011,Lumio Pro Tablet,Computing Hardware,Tablets
+PRD-1012,Lumio Max Tablet,Computing Hardware,Tablets
+PRD-1013,Nexvale Lite Router,Networking,Routers
+PRD-1014,Nexvale Standard Router,Networking,Routers
+PRD-1015,Nexvale Pro Router,Networking,Routers
+PRD-1016,Nexvale Max Router,Networking,Routers
+PRD-1017,Portis Lite Switch,Networking,Switches
+PRD-1018,Portis Standard Switch,Networking,Switches
+PRD-1019,Portis Pro Switch,Networking,Switches
+PRD-1020,Portis Max Switch,Networking,Switches
+PRD-1021,Airen Lite Wireless Access,Networking,Wireless Access
+PRD-1022,Airen Standard Wireless Access,Networking,Wireless Access
+PRD-1023,Airen Pro Wireless Access,Networking,Wireless Access
+PRD-1024,Airen Max Wireless Access,Networking,Wireless Access
+PRD-1025,Oakmere Lite Desk,Office Furniture,Desks
+PRD-1026,Oakmere Standard Desk,Office Furniture,Desks
+PRD-1027,Oakmere Pro Desk,Office Furniture,Desks
+PRD-1028,Oakmere Max Desk,Office Furniture,Desks
+PRD-1029,Sitara Lite Chair,Office Furniture,Chairs
+PRD-1030,Sitara Standard Chair,Office Furniture,Chairs
+PRD-1031,Sitara Pro Chair,Office Furniture,Chairs
+PRD-1032,Sitara Max Chair,Office Furniture,Chairs
+PRD-1033,Vaultek Lite Storage,Office Furniture,Storage
+PRD-1034,Vaultek Standard Storage,Office Furniture,Storage
+PRD-1035,Vaultek Pro Storage,Office Furniture,Storage
+PRD-1036,Vaultek Max Storage,Office Furniture,Storage
+PRD-1037,Meetra Lite Conferencing,Audio & Video,Conferencing
+PRD-1038,Meetra Standard Conferencing,Audio & Video,Conferencing
+PRD-1039,Meetra Pro Conferencing,Audio & Video,Conferencing
+PRD-1040,Meetra Max Conferencing,Audio & Video,Conferencing
+PRD-1041,Visiona Lite Display,Audio & Video,Displays
+PRD-1042,Visiona Standard Display,Audio & Video,Displays
+PRD-1043,Visiona Pro Display,Audio & Video,Displays
+PRD-1044,Visiona Max Display,Audio & Video,Displays
+PRD-1045,Sonique Lite Headset,Audio & Video,Headsets
+PRD-1046,Sonique Standard Headset,Audio & Video,Headsets
+PRD-1047,Sonique Pro Headset,Audio & Video,Headsets
+PRD-1048,Sonique Max Headset,Audio & Video,Headsets
+PRD-1049,Inkwell Lite Printer,Printing & Imaging,Printers
+PRD-1050,Inkwell Standard Printer,Printing & Imaging,Printers
+PRD-1051,Inkwell Pro Printer,Printing & Imaging,Printers
+PRD-1052,Inkwell Max Printer,Printing & Imaging,Printers
+PRD-1053,Scanova Lite Scanner,Printing & Imaging,Scanners
+PRD-1054,Scanova Standard Scanner,Printing & Imaging,Scanners
+PRD-1055,Scanova Pro Scanner,Printing & Imaging,Scanners
+PRD-1056,Scanova Max Scanner,Printing & Imaging,Scanners
+PRD-1057,Tonera Lite Consumable Pack,Printing & Imaging,Consumables
+PRD-1058,Tonera Standard Consumable Pack,Printing & Imaging,Consumables
+PRD-1059,Tonera Pro Consumable Pack,Printing & Imaging,Consumables
+PRD-1060,Tonera Max Consumable Pack,Printing & Imaging,Consumables
+PRD-1061,Typeon Lite Keyboards & Mice,Accessories & Peripherals,Keyboards & Mice
+PRD-1062,Typeon Standard Keyboards & Mice,Accessories & Peripherals,Keyboards & Mice
+PRD-1063,Typeon Pro Keyboards & Mice,Accessories & Peripherals,Keyboards & Mice
+PRD-1064,Typeon Max Keyboards & Mice,Accessories & Peripherals,Keyboards & Mice
+PRD-1065,Dockly Lite Docking Stations,Accessories & Peripherals,Docking Stations
+PRD-1066,Dockly Standard Docking Stations,Accessories & Peripherals,Docking Stations
+PRD-1067,Dockly Pro Docking Stations,Accessories & Peripherals,Docking Stations
+PRD-1068,Dockly Max Docking Stations,Accessories & Peripherals,Docking Stations
+PRD-1069,Voltra Lite Cables & Power,Accessories & Peripherals,Cables & Power
+PRD-1070,Voltra Standard Cables & Power,Accessories & Peripherals,Cables & Power
+PRD-1071,Voltra Pro Cables & Power,Accessories & Peripherals,Cables & Power
+PRD-1072,Voltra Max Cables & Power,Accessories & Peripherals,Cables & Power

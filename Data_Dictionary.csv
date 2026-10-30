@@ -1,0 +1,26 @@
+﻿Table,Column,Data_Type,Key,Description,Allowed_Values_or_Format,Notes
+Sales_Transactions,Transaction_ID,Text,PK,Unique ID of each sales order line.,TXN-000001 ... ,One row = one product line on one order.
+Sales_Transactions,Order_Date,Date,,Date the order was placed.,"YYYY-MM-DD, 2024-01-01 to 2025-12-31",Join to a Date table; Monthly_Targets.Month = first day of month.
+Sales_Transactions,Customer_ID,Text,FK -> Dim_Customer,Customer who placed the order.,CUST-0001 ...,
+Sales_Transactions,Product_ID,Text,FK -> Dim_Product,Product sold.,PRD-1001 ...,
+Sales_Transactions,Region_ID,Text,FK -> Dim_Region,Sales region (country-level) that booked the sale.,R01 ... R10,
+Sales_Transactions,Channel,Text,,Sales channel used.,"Direct Sales, Distributor, Online Store, Retail Store, Marketplace",
+Sales_Transactions,Quantity,Whole number,,Units sold on the line.,1 - 150,
+Sales_Transactions,Unit_Price,Decimal (USD),,"List price per unit in USD, before discount (includes regional price index).",> 0,
+Sales_Transactions,Discount,Decimal (fraction),,Discount applied to the line as a fraction.,0.00 - 0.25 (0.10 = 10%),Format as % in Excel / Power BI.
+Sales_Transactions,Sales_Amount,Decimal (USD),,Net revenue of the line.,"= ROUND(Quantity * Unit_Price * (1 - Discount), 2)",Validated by the generator.
+Sales_Transactions,Cost_Amount,Decimal (USD),,Total cost of goods sold for the line.,= Quantity * product unit cost (always < Sales_Amount),Gross Profit = Sales_Amount - Cost_Amount.
+Dim_Customer,Customer_ID,Text,PK,Unique customer ID.,CUST-0001 ...,
+Dim_Customer,Customer_Name,Text,,Fictional customer name.,,All names are invented.
+Dim_Customer,Customer_Segment,Text,,Customer size/type segment.,"Enterprise, Mid-Market, Small Business, Government",
+Dim_Customer,Industry,Text,,Customer industry.,11 commercial industries + Public Sector,Government customers = Public Sector.
+Dim_Product,Product_ID,Text,PK,Unique product ID.,PRD-1001 ...,
+Dim_Product,Product_Name,Text,,Fictional product name (series + tier + type).,,"Tiers: Lite, Standard, Pro, Max."
+Dim_Product,Product_Category,Text,,Top-level category.,6 categories,Hierarchy: Category > Family > Product.
+Dim_Product,Product_Family,Text,,Product family within a category.,18 families,
+Dim_Region,Region_ID,Text,PK,Unique region ID (one per country/territory).,R01 ... R10,
+Dim_Region,Region_Name,Text,,Sales territory grouping.,"North America, EMEA, APAC, LATAM",Hierarchy: Region_Name > Country.
+Dim_Region,Country,Text,,Country (US split East/West).,,
+Monthly_Targets,Month,Date,Composite PK (with Region_ID),First day of the target month.,YYYY-MM-01,Relate to a Date table via month start.
+Monthly_Targets,Region_ID,Text,FK -> Dim_Region,Region the target applies to.,R01 ... R10,
+Monthly_Targets,Sales_Target,Whole number (USD),,Monthly net sales target for the region.,"Rounded to nearest 1,000",Compare against SUM(Sales_Amount) for attainment %.
